@@ -29,3 +29,5 @@ function moveDodgerLeft() {
       dodger.style.left = `${left + 1}px`;
     }
   }
+
+  //forcing autotest to run hopefully
